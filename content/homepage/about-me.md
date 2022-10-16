@@ -7,7 +7,7 @@ header_menu: true
 
 ---
 ##### Fjellheisen
-![fjellheisen](/images/fjellheisen.jpg)
+![fjellheisen](./images/fjellheisen.jpg)
 
 Heis til start.\
 Flott termikksted på våren. Om sommeren ødelegges ofte forholdene av solgangsbris fra NV, som ikke når opp til start.
