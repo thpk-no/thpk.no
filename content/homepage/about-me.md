@@ -13,7 +13,11 @@ Heis til start.\
 Flott termikksted på våren. Om sommeren ødelegges ofte forholdene av solgangsbris fra NV, som ikke når opp til start.
 Rekorden herfra er på 30 km (piloten startet etter kl. 16:00, så her er muligheter for forbedring)
 
-Mest brukte landingsområder er Mandelasletta (tre fotballbaner stort) rett nord for bruhodet, og "Tirb" som ligger på Hungeren nedenfor fjellheisens nedre stasjon, se bildet. "Tirb" kan på visse forhold være krevende å lande på, så her skal man være minimum PP3 for å lande (evt. PP2 med instruktør til stede).
+Mest brukte landingsområder er Mandelasletta (tre fotballbaner stort) rett
+nord for bruhodet, og "Tirb" som ligger på Hungeren nedenfor fjellheisens
+nedre stasjon, se bildet. "Tirb" kan på visse forhold være krevende å lande
+på, så her skal man være minimum PP3 for å lande (evt. PP2 med instruktør til
+stede).
 
 NB! Fjellheisen er innenfor Tromsø CTR 
 
