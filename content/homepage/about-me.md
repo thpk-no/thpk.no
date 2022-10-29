@@ -6,7 +6,9 @@ header_menu: true
 
 
 ---
+
 ##### Fjellheisen
+
 ![fjellheisen](./images/fjellheisen.jpg)
 
 Heis til start.\
@@ -19,14 +21,16 @@ nedre stasjon, se bildet. "Tirb" kan på visse forhold være krevende å lande
 på, så her skal man være minimum PP3 for å lande (evt. PP2 med instruktør til
 stede).
 
-NB! Fjellheisen er innenfor Tromsø CTR 
+NB! Fjellheisen er innenfor Tromsø CTR
 
 Husk å ring tårnet for flytid! 67034766
 
 Call the airport for permission to fly: 67034766
 
 ---
+
 ##### Finnvikdalen
+
 ![finnvikdalen](./images/finnvikdalen.jpg)
 
 Finnvikdalen (FVD) er det eneste stedet med muligheter på alle vindretninger. Lengste loggede distanse 7,2 km.\
@@ -45,7 +49,9 @@ Stedet har en innflydd praksis med at utelandet pilot HENTES av den på start me
 NB! Husk å ring tårnet for flytid! 67034766
 
 ---
+
 ##### Ersfjorden
+
 ![ersfjorden](./images/ersfjorden.jpg)
 
 Heng/sjøtermisk sted. 130 moh, 10-15 min å gå.
@@ -60,13 +66,17 @@ Ersfjord er sannynligvis Norges beste vinterflysted på grunn av god sjøtermikk
 NB! Husk å ring tårnet for flytid! 67034766
 
 ---
+
 ##### Grøtfjorden
+
 ![grøtfjorden](./images/grotfjorden.jpg)
 
 Det flyes mest hang her. Vintersted. Flotte, ville fjell som gir fantastiske flyopplevelser. Starten ligger rett over veien, 2 min. fra bilen.
 
 ---
+
 ##### Ramfjorden
+
 ![ramfjorden](./images/ramfjorden.jpg)
 
 Termikksted med en fjellrekke som strekker seg 25 km til Breivikeidet. (tidl. rekord for out/return)
@@ -76,13 +86,17 @@ Tromsdalstinden på over 1200 m kan toppes herfra.
 Jordene ned mot havet er ikke i bruk og her kan vi lande. Fine store jorder!
 
 ---
+
 ##### Skulsfjorden / "lilleløkken"
+
 ![skulsfjorden](./images/skulsfjorden.jpg)
 
 Det flyges mest hang her. Fullt mulig å toppe Nordtinden herfra.Fine naturopplevelser. havtermikk om vinteren. Parkering langs veien, ikke på snuplassen.
 
 ---
+
 ##### Oldervika
+
 ![oldervika](./images/oldervika.jpg)
 
 Vår og høststed. Flyges mest hang her, men faktisk mulig å komme over 1000 moh på hang!
