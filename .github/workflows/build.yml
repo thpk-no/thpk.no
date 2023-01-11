@@ -1,5 +1,8 @@
 name: Build website
 
+env:
+  CNAME: "thpk.no"
+
 on:
   push:
     branches:
@@ -22,6 +25,21 @@ jobs:
 
       - name: Build
         run: hugo --minify
+
+      # Add CNAME, either (first one used)
+      # - file in the root
+      # - the environment variable set above
+      - name: add CNAME
+        run: |
+          if [ -f CNAME ] ; then
+              mv CNAME public/
+              echo "Copied CNAME from repository root"
+              exit 0
+          fi
+          if [ -n ${{ env.CNAME }} ] ; then
+              echo -n ${{ env.CNAME }} > public/CNAME
+              echo "Used CNAME from the action workflow file"
+          fi
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
