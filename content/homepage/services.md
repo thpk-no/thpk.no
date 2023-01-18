@@ -6,7 +6,6 @@ header_menu: true
 
 ![thpk](/images/kurspg.jpg)
 
----
 # Grunnkurs paragliding 2023
 ---
 Vi ønsker velkommen til nytt grunnkurs i paragliding i regi av **Tromsø hang- og paragliderklubb**. Lørdag 15. juli starter vi opp nytt grunnkurs i paragliding i Tromsø. 
