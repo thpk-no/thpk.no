@@ -7,7 +7,7 @@ header_menu: true
 ![thpk](/images/kurspg.jpg)
 
 ---
-## Neste kurs?
+## Neste kurs
 
 Velkommen til nybegynnerkurs i paragliding i regi av Tromsø hang- og paragliderklubb. Lørdag 23. juli starter vi opp nytt nybegynnerkurs i paragliding i Tromsø. Nå har vi endelig lagt bak oss de heftigste Covid 19 restriksjonene for denne gang. Nybegynnerkurset i sommer vil bli et intensivkurs over to uker i juli og august, fra lørdag 23. juli til søndag 6. august 2022.
 
