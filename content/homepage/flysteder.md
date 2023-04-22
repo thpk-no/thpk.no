@@ -4,6 +4,10 @@ weight: 2
 header_menu: true
 ---
 
+##### Airspace
+
+Information about airspaces and how to coordinate with the control tower and
+with others before you can fly: <https://tromso-paragliding.xyz/airspace/>
 
 ---
 
