@@ -27,9 +27,7 @@ stede).
 
 NB! Fjellheisen er innenfor Tromsø CTR
 
-Husk å ring tårnet for flytid! 67034766
-
-Call the airport for permission to fly: 67034766
+Call the airport for permission to fly. Join [Signal group "THPK flyboks"](https://signal.group/#CjQKIEFDL9GndybrKwgfPps-LkFghgnxhFzaIF9Zd-1Jnz_FEhAR16FgrJSESTZabTtpZFmZ) to get the number.
 
 ---
 
@@ -50,7 +48,7 @@ Alt dette kun 10 minutters kjøring fra Tromsø by. Svært populært område for
 
 Stedet har en innflydd praksis med at utelandet pilot HENTES av den på start med bil - kan være kjekt å vite dersom man har lyst å bli hentet selv ved utelanding.
 
-NB! Husk å ring tårnet for flytid! 67034766
+Call the airport for permission to fly. Join [Signal group "THPK flyboks"](https://signal.group/#CjQKIEFDL9GndybrKwgfPps-LkFghgnxhFzaIF9Zd-1Jnz_FEhAR16FgrJSESTZabTtpZFmZ) to get the number.
 
 ---
 
@@ -67,7 +65,7 @@ PP2 kan fly hvis en instruktør har gitt seg utsjekk på stedet og senere er erf
 
 Ersfjord er sannynligvis Norges beste vinterflysted på grunn av god sjøtermikk og vinder som nesten alltid står inn på start i vinterhalvåret.
 
-NB! Husk å ring tårnet for flytid! 67034766
+Call the airport for permission to fly. Join [Signal group "THPK flyboks"](https://signal.group/#CjQKIEFDL9GndybrKwgfPps-LkFghgnxhFzaIF9Zd-1Jnz_FEhAR16FgrJSESTZabTtpZFmZ) to get the number.
 
 ---
 
