@@ -6,10 +6,10 @@ header_menu: true
 
 ![thpk](/images/kurspg.jpg)
 
-# Grunnkurs paragliding 2023
+# Grunnkurs paragliding 2024
 ---
-Vi ønsker velkommen til nytt grunnkurs i paragliding i regi av **Tromsø hang- og paragliderklubb**. Lørdag 15. juli starter vi opp nytt grunnkurs i paragliding i Tromsø. 
-Grunnkurset i sommer vil bli et intensivkurs over to uker, fra Lørdag 15. juli til Lørdag 29. juli 2023.
+Vi ønsker velkommen til nytt grunnkurs i paragliding i regi av **Tromsø hang- og paragliderklubb**.
+Grunnkurset i sommer vil bli et intensivkurs over to uker.
 
 Intensivkurs i Tromsø er unikt i og med at vi kan fly så lenge det er lyst (opptil 18 timer i døgnet) og så lenge været tillater oss. Vi har en lang og lys dag å ta av, men vi er også avhengige av godt flyvær. Juli / august er vanligvis de mest stabile dagene vi har på kalenderen. Vi presiserer at et grunnkurs er et intensivkurs. Det betyr at alle dagene vil bli disponert fra morgen til kveld, og man kan derfor ikke planlegge andre aktiviteter i dagene kurset pågår. Du må påregne å holde deg uthvilt i kursdagene. Kurset er til tider både psykisk og fysisk utfordrende, men samtidig fantastisk givende og gir deg enorm mestringsfølelse.
 
@@ -60,7 +60,7 @@ Vi ønsker deg med dette velkommen på kurs hos oss i Tromsø hang- og paraglide
 
 #### Hva koster et kurs?
 ---
-**Kurset i 2023 koster kr. 13 000,- og inkluderer:**
+**Kurset i 2024 koster kr. 13 000,- og inkluderer:**
 
 -   Instruktørstyrt teori og praksis i hele kurstiden.
 -   Leie av paraglider, seletøy, helhjelm og radio.
@@ -78,8 +78,8 @@ Kontonummer: 9731.06.01261
 
 Merk innbetaling med: "**Navn**, **årstall** og **"depositum"** eller **"kurs"** om du ønsker å betale for hele kurset på forskudd."
 
-Eksempel 1 : Ola Normann , 2023 , depositum
-Eksempel 2 : Kari Normann , 2023 , kurs
+Eksempel 1 : Ola Normann , 2024 , depositum
+Eksempel 2 : Kari Normann , 2024 , kurs
 
 De som ønsker å melde seg på kurs kan kontakte **skolesjef** ved å sende e-post til [kurs@thpk.no](mailto:kurs@thpk.no) med følgende opplysninger:
 
