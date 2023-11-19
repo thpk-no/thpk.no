@@ -19,19 +19,16 @@ Det blir satt opp oppfølgingshelger etter endt kurs.
 
 Vi legger opp til en gruppe på max **8-10** elever. Vi i **Tromsø hang- og paragliderklubb** har fire instruktører og flere hjelpeinstruktører.
 
-
 #### Hvorfor må jeg bruke tid på kurs?
+
 ---
 Det er svært viktig at man ikke starter med dette på egenhånd. I sportens spede begynnelse så fantes det ingen eksperter, og man var avhengig av å prøve og feile. Dette førte opp gjennom årene til en rekke ulykker som følge av at man ikke visste hva man gjorde. Heldigvis er det ikke slik lenger. All Paragliding er i Norge organisert under [Norges Luftsportsforbund (NLF)](https://www.nlf.no/info/om-nlf), som opererer med et sikkerhetssystem som er godkjent av Luftfartstilsynet. Det er lovpålagt med kurs, medlemskap i NLF, og obligatorisk ansvarsforsikring for å utøve paragliding i Norge. Vi bruker et anerkjent utdanningssystem som kalles **Para Pro**. Dette ble godkjent som internasjonal standard for paragliderutdannelse i 1990. Para Pro har som målsetning å utdanne hver enkelt utøver til selvstendige piloter som er i stand til å ivareta sin egen og andres sikkerhet. Flysikkerhet har absolutt førsteprioritet. Progresjonsstigen består av 4 trinn (**PP2-5**) der utøverne, basert på egne forutsetninger, flyr innenfor de muligheter, retningslinjer og begrensninger som er gitt for hvert trinn.
-
 
 #### Hvordan gjennomføres kurset?
 ---
 Grunnkurset som leder frem til Elevbevis **PP2** (Para Pro trinn 2) består av tre deler, en **holdningsdel**, en **praktisk** del og en **teoretisk** del. Den praktiske treningen starter på flat mark, hvor du lærer å trekke opp og kontrollere glideren. Videre forflytter vi oss oppover i en liten bakke hvor en kan trene på start og landing. Når instruktøren finner deg skikket, flyttes treningen til større bakker/fjell med en høydeforskjell på minst 250 meter. Dette kalles høydeturer. Det er normalt å være litt spent eller nervøs før første høydetur, men når du først er i luften forsvinner dette som dugg for solen. Følelsen av å fly er fantastisk! I den praktiske delen av kurset vil du lære å starte, korrigere, styre, bremse og lande kontrollert.
 
 I den **teoretiske** delen får du innføring i **aerodynamikk, praktisk flyging, materialkunnskap, meteorologi, lover og regler** samt **førstehjelp**. Teoridelen vil i utgangspunktet bli holdt i henhold til kursplanen og på dager med dårlig vær.
-
-
 
 #### Lokasjoner
 ---
@@ -52,11 +49,10 @@ Har du det som skal til for å drive med paragliding?
 -   Kapabel å bære en ca 12 kg ryggsekk i fjellet opptil flere ganger om dagen?
 -   Normalt syn og hørsel
 -   Normal motorikk og styrke
--   Ved godt humør 
+-   Ved godt humør
 
-Da er dette kurset noe for deg! 
+Da er dette kurset noe for deg!
 Vi ønsker deg med dette velkommen på kurs hos oss i Tromsø hang- og paragliderklubb.
-
 
 #### Hva koster et kurs?
 ---
