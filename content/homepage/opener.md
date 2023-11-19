@@ -1,6 +1,7 @@
 ---
 title: "Klubbens historie"
 weight: 1
+draft: true
 ---
 
 
