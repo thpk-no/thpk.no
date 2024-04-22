@@ -1,6 +1,6 @@
 ---
 title: "Kontakt oss"
-weight: 5
+weight: 7
 header_menu: true
 ---
 
