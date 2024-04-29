@@ -16,6 +16,7 @@ turen. Dersom du ikke ønsker å gå opp kommer billett til fjellheisen i tilleg
 
 For mer informasjon/bestilling av tur kan du kontakte:
 - Vegard Mellem: 41 21 21 26 (vmellem@gmail.com)
+- Silvia Lutter: siwaa@web.de
 
 Klubben selger også gavekort på tandemturer. Kontakt Vegard så får du
 informasjon om det.
@@ -23,7 +24,7 @@ informasjon om det.
 **Vær**: Paragliding er veldig væravhengig. Det krever oppholdsvær og ikke for
 mye vind. Vi kan heller ikke starte på vind fra østlige retninger. Med andre
 ord er det nødvendig å vurdere mulighetene 0-2 dager før for å se om det kan
-bli tur. Vi kan godt stille på kort varsel dersom du ønsker å fly samme dag
+bli tur. Vi kan ofte stille på kort varsel dersom du ønsker å fly samme dag
 eller dagen etter – bestiller du tur lengre fram i tid må vi ta en vurdering av
 værmeldinga omtrent to dager før tur.
 
