@@ -16,7 +16,7 @@ turen. Dersom du ikke ønsker å gå opp kommer billett til fjellheisen i tilleg
 
 For mer informasjon/bestilling av tur kan du kontakte:
 - Vegard Mellem: 41 21 21 26 (vmellem@gmail.com)
-- Silvia Lutter: siwaa@web.de
+- Silvia Lutter: siwaa (krøllalfa) web.de
 
 Klubben selger også gavekort på tandemturer. Kontakt Vegard så får du
 informasjon om det.

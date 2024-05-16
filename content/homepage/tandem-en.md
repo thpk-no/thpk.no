@@ -14,7 +14,7 @@ ticket for the cable car is also required.
 
 For more information/booking, you can contact:
 - Vegard Mellem: 41 21 21 26 (vmellem@gmail.com)
-- Silvia Lutter: siwaa@web.de
+- Silvia Lutter: siwaa (at sign) web.de
 
 The club also sells gift vouchers for tandem flights. Contact Vegard for more
 information on that.
