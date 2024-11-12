@@ -24,7 +24,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --panicOnWarning=false
 
       # Add CNAME, either (first one used)
       # - file in the root
