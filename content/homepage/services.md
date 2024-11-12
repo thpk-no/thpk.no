@@ -6,96 +6,177 @@ header_menu: true
 
 ![thpk](/images/kurspg.jpg)
 
-# Grunnkurs paragliding 2024
----
-Vi ønsker velkommen til nytt grunnkurs i paragliding i regi av **Tromsø hang- og paragliderklubb**.
-Grunnkurset i sommer vil bli et intensivkurs over to uker.
+# Grunnkurs i paragliding i regi av THPK utgår i 2025
 
-Intensivkurs i Tromsø er unikt i og med at vi kan fly så lenge det er lyst (opptil 18 timer i døgnet) og så lenge været tillater oss. Vi har en lang og lys dag å ta av, men vi er også avhengige av godt flyvær. Juli / august er vanligvis de mest stabile dagene vi har på kalenderen. Vi presiserer at et grunnkurs er et intensivkurs. Det betyr at alle dagene vil bli disponert fra morgen til kveld, og man kan derfor ikke planlegge andre aktiviteter i dagene kurset pågår. Du må påregne å holde deg uthvilt i kursdagene. Kurset er til tider både psykisk og fysisk utfordrende, men samtidig fantastisk givende og gir deg enorm mestringsfølelse.
+Grunnkurset i paragliding I regi av Tromsø hang- og paragliderklubb bruker
+holdes som et intensivkurs over to uker på sommeren, oftest i overgangen
+juli/august.
 
-Intensivkurset gir oss mange fordeler (og noen utfordring) sammenlignet med helgekurs strukket over nesten to måneder. Intensivkurset krever at man er tilstede under hele kursets varighet. Har man ikke mulighet å være tilstede under hele kurset, vil det være svært vanskelig la seg gjennomføre på den korte tiden vi har tilgjengelig.
+Intensivkurs i Tromsø er unikt i og med at vi kan fly så lenge det er lyst
+(opptil 18 timer i døgnet) og så lenge været tillater oss. Vi har en lang og
+lys dag å ta av, men vi er også avhengige av godt flyvær. Juli / august er
+vanligvis de mest stabile dagene vi har på kalenderen.  Vi presiserer at et
+grunnkurs er et intensivkurs. Det betyr at alle dagene vil bli disponert fra
+morgen til kveld, og man kan derfor ikke planlegge andre aktiviteter i dagene
+kurset pågår. Du må påregne å holde deg uthvilt i kursdagene. Kurset er til
+tider både psykisk og fysisk utfordrende, men samtidig fantastisk givende og
+gir deg enorm mestringsfølelse.
 
-Det blir satt opp oppfølgingshelger etter endt kurs. 
+Intensivkurset gir oss mange fordeler (og noen utfordringer) sammenlignet med
+helgekurs strukket over flere måneder. Intensivkurset krever at man er tilstede
+under hele kursets varighet. Har man ikke mulighet å være tilstede under hele
+kurset, vil det være svært vanskelig å gjennomføre hele kurset på den korte
+tiden vi har tilgjengelig.  Det vil bli satt opp oppfølgingshelger etter endt
+kurs.
 
-Vi legger opp til en gruppe på max **8-10** elever. Vi i **Tromsø hang- og paragliderklubb** har fire instruktører og flere hjelpeinstruktører.  
+Vi legger opp til en gruppe på maks **8-10 elever**. Vi i **Tromsø hang- og
+paragliderklubb** har fire instruktører og flere hjelpeinstruktører.
 
-#### Hvorfor må jeg bruke tid på kurs?
 
----
-Det er svært viktig at man ikke starter med dette på egenhånd. I sportens spede begynnelse så fantes det ingen eksperter, og man var avhengig av å prøve og feile. Dette førte opp gjennom årene til en rekke ulykker som følge av at man ikke visste hva man gjorde. Heldigvis er det ikke slik lenger. All Paragliding er i Norge organisert under [Norges Luftsportsforbund (NLF)](https://www.nlf.no/info/om-nlf), som opererer med et sikkerhetssystem som er godkjent av Luftfartstilsynet. Det er lovpålagt med kurs, medlemskap i NLF, og obligatorisk ansvarsforsikring for å utøve paragliding i Norge. Vi bruker et anerkjent utdanningssystem som kalles **Para Pro**. Dette ble godkjent som internasjonal standard for paragliderutdannelse i 1990. Para Pro har som målsetning å utdanne hver enkelt utøver til selvstendige piloter som er i stand til å ivareta sin egen og andres sikkerhet. Flysikkerhet har absolutt førsteprioritet. Progresjonsstigen består av 4 trinn (**PP2-5**) der utøverne, basert på egne forutsetninger, flyr innenfor de muligheter, retningslinjer og begrensninger som er gitt for hvert trinn.
+## Hvorfor må jeg bruke tid på kurs?
 
-#### Hvordan gjennomføres kurset?
----
-Grunnkurset som leder frem til Elevbevis **PP2** (Para Pro trinn 2) består av tre deler, en **holdningsdel**, en **praktisk** del og en **teoretisk** del. Den praktiske treningen starter på flat mark, hvor du lærer å trekke opp og kontrollere glideren. Videre forflytter vi oss oppover i en liten bakke hvor en kan trene på start og landing. Når instruktøren finner deg skikket, flyttes treningen til større bakker/fjell med en høydeforskjell på minst 250 meter. Dette kalles høydeturer. Det er normalt å være litt spent eller nervøs før første høydetur, men når du først er i luften forsvinner dette som dugg for solen. Følelsen av å fly er fantastisk! I den praktiske delen av kurset vil du lære å starte, korrigere, styre, bremse og lande kontrollert.
+Det er svært viktig at man ikke starter med dette på egenhånd. I sportens spede
+begynnelse så fantes det ingen eksperter, og man var avhengig av å prøve og
+feile. Dette førte opp gjennom årene til en rekke ulykker som følge av at man
+ikke visste hva man gjorde. Heldigvis er det ikke slik lenger. All paragliding
+er i Norge organisert under Norges Luftsportsforbund (NLF), som opererer med et
+sikkerhetssystem som er godkjent av Luftfartstilsynet. Det er lovpålagt med
+kurs, medlemskap i NLF, og obligatorisk ansvarsforsikring for å utøve
+paragliding i Norge. Vi bruker et anerkjent utdanningssystem som kalles **Para
+Pro**. Dette ble godkjent som internasjonal standard for paragliderutdannelse i
+1990. Para Pro har som målsetning å utdanne hver enkelt utøver til selvstendige
+piloter som er i stand til å ivareta sin egen og andres sikkerhet. Flysikkerhet
+har absolutt førsteprioritet. Progresjonsstigen består av 4 trinn (**PP2-5**)
+der utøverne, basert på egne forutsetninger, flyr innenfor de muligheter,
+retningslinjer og begrensninger som er gitt for hvert trinn.
 
-I den **teoretiske** delen får du innføring i **aerodynamikk, praktisk flyging, materialkunnskap, meteorologi, lover og regler** samt **førstehjelp**. Teoridelen vil i utgangspunktet bli holdt i henhold til kursplanen og på dager med dårlig vær.
 
-#### Lokasjoner
----
-**Tromsø hang og paragliderklubb** har tre kurslokasjoner. Første praktiske flyging skjer oppe i Finnvikdalen på Kvaløya. Siste del av høydeturene vil hovedsakelig gå fra fjellheisen i Tromsdalen. Det meste av teoriundervisningen planlegges i utgangspunktet å utføres på **Solneset skole**, hvor vi har tilgang til forelesningssaler. Mye av teorien vil også foregå ute i skolebakken.
+## Hvordan gjennomføres kurset?
 
-For å få elevbevis **PP2** må du bestå en teoretisk eksamen og ha gjennomført minimum 30 flyturer, der 10 av disse er høydeturer som må være godkjente etter gitt flyplan. Du må i tillegg ha opparbeidet deg og vist til utførelse av godt luftvett. Instruktørene må være trygge på at du kan ta ansvar for din egen sikkerhet, og det er instruktørene som bestemmer om du trenger mer trening eller tid for å oppfylle kravene til sertifisering.
+Grunnkurset som leder frem til Elevbevis **PP2** (Para Pro trinn 2) består av
+tre deler, en **holdningsdel**, en **praktisk** del og en **teoretisk** del.
+Den praktiske treningen starter på flat mark, hvor du lærer å trekke opp og
+kontrollere glideren. Videre forflytter vi oss oppover i en liten bakke hvor en
+kan trene på start og landing. Når instruktøren finner deg skikket, flyttes
+treningen til større bakker/fjell hvor det gjerne er 250 meters høydeforskjell
+fra start til landing. Dette kalles høydeturer. Det er normalt å være litt
+spent eller nervøs før første høydetur, men når du først er i luften forsvinner
+dette som dugg for solen. Følelsen av å fly er fantastisk! I den praktiske
+delen av kurset vil du lære å starte, korrigere, styre, bremse og lande
+kontrollert.
 
-Med **PP2** elevbevis i hånden etter endt kurs, kan du fly uten instruktørene tilstede under samme eller bedre forhold du hadde under opplæringen. Dette gjelder på flysteder som er godkjent for nivået ditt. Du vil lære mer om dette under kurset 🙂
+I den **teoretiske** delen får du innføring i **aerodynamikk, praktisk flyging,
+materialkunnskap, meteorologi, lover og regler** samt **førstehjelp**.
+Teoridelen vil i utgangspunktet bli holdt i henhold til kursplanen og på dager
+med dårlig vær.
 
-#### Hva kreves av deg?
----
-Paragliding er det mest utfordrende, spennende og morsomste du kan gjøre i sommer, men denne sporten bringer også med seg noen elementer av risiko. 
-Det er derfor veldig viktig med et godt grunnkurs for å trygge dine ferdigheter som ny paragliderpilot og gode holdninger til denne sporten.
-Har du det som skal til for å drive med paragliding?
 
-- Over 18 fylte år gammel
-- I god fysisk form
-- Kapabel å bære en ca 12 kg ryggsekk i fjellet opptil flere ganger om dagen?
-- Normalt syn og hørsel
-- Normal motorikk og styrke
-- Ved godt humør
+## Lokasjoner
 
-Da er dette kurset noe for deg!
-Vi ønsker deg med dette velkommen på kurs hos oss i Tromsø hang- og paragliderklubb.
+**Tromsø hang og paragliderklubb** har tre kurslokasjoner. Første praktiske
+flyging skjer oppe i Finnvikdalen på Kvaløya. Siste del av høydeturene vil
+hovedsakelig gå fra fjellheisen i Tromsdalen. Det meste av teoriundervisningen
+planlegges i utgangspunktet å utføres på **Solneset skole**, hvor vi har
+tilgang til klasserom. Mye av teorien vil også foregå ute i skolebakken.
 
-#### Hva koster et kurs?
----
-**Kurset i 2024 koster kr. 13 000,- og inkluderer:**
+For å få elevbevis **PP2** må du bestå en teoretisk eksamen og ha gjennomført
+minimum 30 flyturer, der 10 av disse er høydeturer som må være godkjente etter
+gitt flyplan. Du må i tillegg ha opparbeidet deg og vist til utførelse av godt
+luftvett/gode holdninger. Instruktørene må være trygge på at du kan ta ansvar
+for din egen sikkerhet, og det er instruktørene som bestemmer om du trenger mer
+trening eller tid for å oppfylle kravene til sertifisering.
 
-- Instruktørstyrt teori og praksis i hele kurstiden.
-- Leie av paraglider, seletøy, helhjelm og radio.
-- Lærebok i paragliding, håndbok og lærebok i førstehjelp.
-- Medlemskap i Tromsø Hang- og paragliderklubb.
-- Medlemskap i Norges luftsportforbund.
-- Personlig ulykkesforsikring for hele verden og 3. mannsforsikring ved utøvelse av paragliding.
+Med **PP2** elevbevis i hånden etter endt kurs, kan du fly uten instruktørene
+tilstede under samme eller bedre forhold du hadde under opplæringen. Dette
+gjelder på flysteder som er godkjent for nivået ditt. Du vil lære mer om dette
+under kurset 🙂
 
-_* Kursavgiften dekker ikke transport/drivstoff eller utgifter til klippekort på fjellheisen. 
 
-for og sikre fast plass på kurs stilles et depositum pålydende 2500,- nok 
+## Hva kreves av deg?
 
-Kontonummer: 9731.06.01261
+Paragliding er det mest utfordrende, spennende og morsomste du kan gjøre i 
 
-Merk innbetaling med: "**Navn**, **årstall** og **"depositum"** eller **"kurs"** om du ønsker å betale for hele kurset på forskudd."
+sommer, men denne sporten bringer også med seg noen elementer av risiko. Det er derfor veldig viktig med et godt grunnkurs for å trygge dine ferdigheter som ny paragliderpilot og gode holdninger til denne sporten. Har du det som skal til for å drive med paragliding?
 
-Eksempel 1 : Ola Normann , 2024 , depositum
-Eksempel 2 : Kari Normann , 2024 , kurs
+1. Over 18 år
 
-De som ønsker å melde seg på kurs kan kontakte **skolesjef** ved å sende e-post til [kurs@thpk.no](mailto:kurs@thpk.no) med følgende opplysninger:
+2. I god fysisk form
 
-- Navn:
-- Fødselsdato:
-- Adresse:
-- Mobil nr:
-- Høyde:
-- Vekt:
+3. Er du kapabel til å bære en ca 12 kg ryggsekk i fjellet opptil flere ganger om dagen?
+
+4. Normalt syn og hørsel
+
+5. Normal motorikk og styrke
+
+6. Ved godt humør
+
+Da er dette kurset noe for deg! Vi ønsker deg med dette velkommen på kurs hos oss i Tromsø hang- og paragliderklubb.
+
+
+## Hva koster et kurs?
+
+**Grunnkurset i regi av THPK utgår i 2025**
+
+Kurset i 2025 var estimert til å koste kr. 13 000 (+ forsikring og kontigenter) og inkluderer :
+
+7. Instruktørstyrt teori og praksis i hele kurstiden.
+
+8. Leie av paraglider, seletøy, helhjelm og radio.
+
+9. Lærebok i paragliding
+
+Kursavgiften dekker ikke transport/drivstoff eller utgifter til klippekort på fjellheisen.
+
+10. I tillegg må 3.personsforsikring og medlemskontingenter i Norges
+    luftsportforbund og Tromsø hang-og paragliderklubb betales. Dette vil
+    variere noe ut fra alder (junior- og seniorkontigent), og om du ønsker
+    utvidet forsikring. Dette lå på 2209,- for senior og 1469,- for junior med
+    grunnforskning for 2024 (betalt etter 1.juli - da er forsikringen halvert
+    for det første året)
+
+
+## Hvordan melde seg på?
+
+Det vil være søknadsbasert opptak for nybegynnerkurs I THPK. 
+
+Kriterier som blir vektlagt ved opptak:
+-Lokal tilhørighet. Vi ønsker utvikle sporten her i Tromsø så de med lokal tilhørighet stiller sterkere.
+-Kjønn. Vi ønsker flere kvinner inn i sporten. Er et krav om minimum 40% av det minst representerte kjønnet til styreverv
+-Motivasjon. Vi ønsker motiverte elever med riktige holdninger. 
+-Vi har en gitt utstyrspark,  så tilpasninger vil bli gjort ut fra vekt/høyde. Viktig å oppgi riktige tall med tanke på sikkerhet. 
+
+Etter å ha fått godkjent opptak krever vi innbetalt depositum pålydende 4000,- før man formelt er påmeldt kurset.
+
+Betalingsinformasjon vil komme i egen mail. 
+
+De som ønsker å melde seg på kurs kan sende søknad til kurs@thpk.no med følgende opplysninger:
+
+- Litt om deg selv
+- Motivasjon til kurs i paragliding
+- Navn
+- Fødselsdato
+- Adresse
+- Mobil nr
+- Høyde
+- Vekt
 - Hjelmstørrelse : 56, 58, 60, eller 62 (kan sjekkes ved å måle med målebånd rundt hodet)
 
-NB! Kurset vil kun bli gjennomført forbeholdt antall påmeldte.
+NB! Kurset vil kun bli gjennomført forbeholdt et visst antall påmeldte.
 
-Har du andre spørsmål vedrørende grunnkurs hos oss ta gjerne kontakt på e-post [kurs@thpk.no](mailto:kurs@thpk.no)
+Har du andre spørsmål vedrørende grunnkurs hos oss ta gjerne kontakt på e-post kurs@thpk.no
 
-###### Vi gleder oss til å se deg i lufta!
+**OBS grunnkurs 2025 UTGÅR i regi av THPK**
+
+Til deg som tar nybegynnerkurs i paragliding og oppnår PP2 hos en annen
+luftsportsklubb iløpet av sommeren 2025;  Vi i THPK planlegger å holde et
+helgekurs med info om lokale forhold samt utsjekk for nye PP2ere
+(nytilflyttede- og lokale PP3ere som ønsker delta er også velkommen) en gang i
+løpet av høsten 2025. Påmelding og mer info om dette kommer etterhvert.
+
+**Vi gleder oss til å se deg i lufta!**
 
 Hilsen
 
-**Arild Jørstad**
-
-Skolesjef
+**Instruktørgruppa**
 
 **Tromsø hang- og paragliderklubb**
