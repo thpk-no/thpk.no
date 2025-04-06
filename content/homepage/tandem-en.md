@@ -6,10 +6,8 @@ header_menu: true
 
 ### Tandem Paragliding from Fjellheisen
 
-<p style="color: rgb(154, 36, 134);">
-The Fjellheisen cable car is closed until May 31, 2025, so tandem flying is
-unfortunately not possible during this period.
-</p>
+**The Fjellheisen cable car is closed until May 31, 2025, so tandem flying is
+unfortunately not possible during this period.**
 
 Would you like to join a flight and see Tromsø, Tromsdalen, and the Arctic
 Cathedral from the air? THPK has tandem pilots with many years of experience
