@@ -6,6 +6,9 @@ header_menu: true
 
 ### Tandem paraglider fra Fjellheisen
 
+**Fjellheisen er stengt til 31. mai 2025, så tandemflyging er dessverre ikke
+mulig i denne perioden.**
+
 Ønsker du å være med på en flytur og se Tromsø, Tromsdalen og Ishavskatedralen
 fra lufta?
 
