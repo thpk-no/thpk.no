@@ -42,9 +42,10 @@ jobs:
               echo "Used CNAME from the action workflow file"
           fi
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Deploy to gh-pages
         if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          force_orphan: true
