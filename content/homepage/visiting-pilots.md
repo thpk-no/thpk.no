@@ -15,4 +15,4 @@ this is an arrangement between the authorities and the THPK club.
 
 We ask you to not contact the Tromsø tower without contacting the club first.
 
-More information about the airspace: <https://tromso-paragliding.xyz/>
+More information about the airspace: <https://tromso-paragliding.xyz/airspace/>
