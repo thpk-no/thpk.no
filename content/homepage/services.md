@@ -129,6 +129,7 @@ I tillegg må personsforsikring og medlemskontingenter i Norges luftsportforbund
 
 De som ønsker å melde seg på kurs kan sende søknad til kurs@thpk.no med følgende opplysninger:
 
+- E-post emne "kurs 2026"
 - Navn
 - Fødselsdato
 - Adresse
