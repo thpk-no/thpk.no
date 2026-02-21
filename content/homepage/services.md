@@ -6,11 +6,9 @@ header_menu: true
 
 ![thpk](/images/kurspg.jpg)
 
-# Grunnkurs i paragliding i regi av THPK utgår i 2025
-
-Grunnkurset i paragliding I regi av Tromsø hang- og paragliderklubb bruker
-holdes som et intensivkurs over to uker på sommeren, oftest i overgangen
-juli/august.
+Grunnkurset i paragliding I regi av Tromsø hang- og paragliderklubb holdes som
+et intensivkurs over to uker på sommeren, oftest i overgangen juli/august. I
+2026 vil nybegynnerkurset holdes fra 24.juli - 8.august.
 
 Intensivkurs i Tromsø er unikt i og med at vi kan fly så lenge det er lyst
 (opptil 18 timer i døgnet) og så lenge været tillater oss. Vi har en lang og
@@ -39,7 +37,7 @@ Det er svært viktig at man ikke starter med dette på egenhånd. I sportens spe
 begynnelse så fantes det ingen eksperter, og man var avhengig av å prøve og
 feile. Dette førte opp gjennom årene til en rekke ulykker som følge av at man
 ikke visste hva man gjorde. Heldigvis er det ikke slik lenger. All paragliding
-er i Norge organisert under Norges Luftsportsforbund (NLF), som opererer med et
+er i Norge organisert under Norges Luftsportsforbund (NLF), som opererer med et
 sikkerhetssystem som er godkjent av Luftfartstilsynet. Det er lovpålagt med
 kurs, medlemskap i NLF, og obligatorisk ansvarsforsikring for å utøve
 paragliding i Norge. Vi bruker et anerkjent utdanningssystem som kalles **Para
@@ -94,8 +92,7 @@ under kurset 🙂
 
 ## Hva kreves av deg?
 
-Paragliding er det mest utfordrende, spennende og morsomste du kan gjøre i 
-
+Paragliding er det mest utfordrende, spennende og morsomste du kan gjøre i
 sommer, men denne sporten bringer også med seg noen elementer av risiko. Det er derfor veldig viktig med et godt grunnkurs for å trygge dine ferdigheter som ny paragliderpilot og gode holdninger til denne sporten. Har du det som skal til for å drive med paragliding?
 
 1. Over 18 år
@@ -115,44 +112,23 @@ Da er dette kurset noe for deg! Vi ønsker deg med dette velkommen på kurs hos 
 
 ## Hva koster et kurs?
 
-**Grunnkurset i regi av THPK utgår i 2025**
+Kurset i 2026 vil koste 14 000 NOK (+ forsikring og kontigenter) og inkluderer :
 
-Kurset i 2025 var estimert til å koste kr. 13 000 (+ forsikring og kontigenter) og inkluderer :
+- Instruktørstyrt teori og praksis i hele kurstiden.
 
-7. Instruktørstyrt teori og praksis i hele kurstiden.
+- Leie av paraglider, seletøy, helhjelm og radio.
 
-8. Leie av paraglider, seletøy, helhjelm og radio.
-
-9. Lærebok i paragliding
+- Lærebok i paragliding
 
 Kursavgiften dekker ikke transport/drivstoff eller utgifter til klippekort på fjellheisen.
 
-10. I tillegg må 3.personsforsikring og medlemskontingenter i Norges
-    luftsportforbund og Tromsø hang-og paragliderklubb betales. Dette vil
-    variere noe ut fra alder (junior- og seniorkontigent), og om du ønsker
-    utvidet forsikring. Dette lå på 2209,- for senior og 1469,- for junior med
-    grunnforskning for 2024 (betalt etter 1.juli - da er forsikringen halvert
-    for det første året)
+I tillegg må personsforsikring og medlemskontingenter i Norges luftsportforbund og Tromsø hang-og paragliderklubb betales av hver enkelt deltager. Dette vil variere noe ut fra alder (junior- og seniorkontigent), og om du ønsker utvidet forsikring. Dette lå på 2209,- for senior og 1469,- for junior med grunnforskning for 2024 (betalt etter 1.juli - da er forsikringen halvert for det første året)
 
 
 ## Hvordan melde seg på?
 
-Det vil være søknadsbasert opptak for nybegynnerkurs I THPK. 
+De som ønsker å melde seg på kurs kan sende søknad til kurs@thpk.no med følgende opplysninger:
 
-Kriterier som blir vektlagt ved opptak:
--Lokal tilhørighet. Vi ønsker utvikle sporten her i Tromsø så de med lokal tilhørighet stiller sterkere.
--Kjønn. Vi ønsker flere kvinner inn i sporten. Er et krav om minimum 40% av det minst representerte kjønnet til styreverv
--Motivasjon. Vi ønsker motiverte elever med riktige holdninger. 
--Vi har en gitt utstyrspark,  så tilpasninger vil bli gjort ut fra vekt/høyde. Viktig å oppgi riktige tall med tanke på sikkerhet. 
-
-Etter å ha fått godkjent opptak krever vi innbetalt depositum pålydende 4000,- før man formelt er påmeldt kurset.
-
-Betalingsinformasjon vil komme i egen mail. 
-
-De som ønsker å melde seg på kurs kan sende søknad til kurs@thpk.no med følgende opplysninger:
-
-- Litt om deg selv
-- Motivasjon til kurs i paragliding
 - Navn
 - Fødselsdato
 - Adresse
@@ -161,17 +137,11 @@ De som ønsker å melde seg på kurs kan sende søknad til kurs@thpk.no med fø
 - Vekt
 - Hjelmstørrelse : 56, 58, 60, eller 62 (kan sjekkes ved å måle med målebånd rundt hodet)
 
-NB! Kurset vil kun bli gjennomført forbeholdt et visst antall påmeldte.
+Betalingsinformasjon vil komme i egen mail.
 
-Har du andre spørsmål vedrørende grunnkurs hos oss ta gjerne kontakt på e-post kurs@thpk.no
+- Et depositum på 4000 NOK må betales før man formelt er påmeldt kurset.
+- Kurset vil kun bli gjennomført forbeholdt et visst antall påmeldte.
 
-**OBS grunnkurs 2025 UTGÅR i regi av THPK**
-
-Til deg som tar nybegynnerkurs i paragliding og oppnår PP2 hos en annen
-luftsportsklubb iløpet av sommeren 2025;  Vi i THPK planlegger å holde et
-helgekurs med info om lokale forhold samt utsjekk for nye PP2ere
-(nytilflyttede- og lokale PP3ere som ønsker delta er også velkommen) en gang i
-løpet av høsten 2025. Påmelding og mer info om dette kommer etterhvert.
 
 **Vi gleder oss til å se deg i lufta!**
 
