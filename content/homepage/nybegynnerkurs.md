@@ -1,6 +1,6 @@
 ---
-title: "Nybegynnerkurs"
-weight: 2
+title: "Nybegynnerkurs 2026"
+weight: 1
 header_menu: true
 ---
 
