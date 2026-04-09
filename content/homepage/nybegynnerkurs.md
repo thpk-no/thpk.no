@@ -1,6 +1,6 @@
 ---
 title: "Nybegynnerkurs 2026"
-weight: 1
+weight: 2
 header_menu: true
 ---
 
