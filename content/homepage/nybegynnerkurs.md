@@ -143,6 +143,10 @@ Betalingsinformasjon vil komme i egen mail.
 - Et depositum på 4000 NOK må betales før man formelt er påmeldt kurset.
 - Kurset vil kun bli gjennomført forbeholdt et visst antall påmeldte.
 
+Påmelding er først gyldig når depositum er innbetalt. Innbetalt depositum
+innebærer en bindende påmelding. Depositumet refunderes som hovedregel ikke ved
+avmelding, manglende oppmøte eller annen uteblivelse fra kurset.
+
 
 **Vi gleder oss til å se deg i lufta!**
 
